@@ -52,7 +52,7 @@ const Info = () => {
           lower interest rates
         </li>
         <li>
-          <strong>Address:</strong> Paisabazaar, 135 P, Sector 44, Gurugram (HR)
+          <strong>:</strong> Paisabazaar, 135 P, Sector 44, Gurugram (HR)
           122001
         </li>
       </ul>
