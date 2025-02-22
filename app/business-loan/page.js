@@ -53,7 +53,7 @@ export default function BusinessLoan() {
               Business Loan
             </h1>
             <p className="text-[14px] font-[400] text-gray-700">
-              Every business needs capital to grow and at Paisabazaar, we ensure
+              Every business needs capital to grow and at eazyhome, we ensure
               you get the best of what you need. Whether you are launching or
               expanding your business, we pledge to give you best business loan
               offers.

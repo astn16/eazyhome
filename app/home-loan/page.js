@@ -53,7 +53,7 @@ export default function HomeLoan() {
             </h1>
             <p className="text-[14px] font-[400] text-gray-700">
               Owning a house and calling it your home is a dream many of us
-              carry in our hearts. Paisabazaar helps you achieve that dream by
+              carry in our hearts. eazyhome helps you achieve that dream by
               offering the best deal.
             </p>
           </div>

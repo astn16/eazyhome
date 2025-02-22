@@ -56,7 +56,7 @@ const Info = () => {
         </li>
       </ul>
       <p className="text-[12px] text-gray-500 mb-[30px]">
-        <strong>Disclaimer:</strong> Paisabazaar is a loan aggregator and is
+        <strong>Disclaimer:</strong> eazyhome is a loan aggregator and is
         authorized to provide services on behalf of its partners
       </p>
       <p className="mt-4 text-gray-600 text-[12px] leading-[18px]">

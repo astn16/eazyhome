@@ -158,8 +158,8 @@ export function ApplicationForm() {
             </div>
 
             <p className="mt-6 text-[10px] text-gray-500">
-              I authorize Paisabazaar to share details of my Home Loan enquiry
-              with Paisabazaar affiliated banks and lending partners
+              I authorize eazyhome to share details of my Home Loan enquiry
+              with eazyhome affiliated banks and lending partners
             </p>
           </div>
         </div>
@@ -366,8 +366,8 @@ export function ApplicationForm() {
             </div>
 
             <p className="mt-6 text-[10px] text-gray-500">
-              I authorize Paisabazaar to share details of my Home Loan enquiry
-              with Paisabazaar affiliated banks and lending partners
+              I authorize eazyhome to share details of my Home Loan enquiry
+              with eazyhome affiliated banks and lending partners
             </p>
           </div>
           <button className="w-full mt-8 px-6 py-3 text-white bg-greenish rounded-lg hover:bg-green-600 transition-colors focus:outline-none focus:ring-2 focus:ring-greenish/[5%] focus:ring-offset-2">
