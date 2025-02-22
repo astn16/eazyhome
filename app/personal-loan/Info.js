@@ -80,8 +80,8 @@ const Info = () => {
       <div className="p-[24px] rounded-lg bg-greenish/10 mt-[40px] flex items-center space-x-[7px] text-greenish">
         <FaMapMarkerAlt size={18} className="min-w-[18px]" />
         <p className="text-sm">
-          Paisabazaar Marketing & Consulting Pvt. Ltd. 135 P, Sector 44,
-          Gurugram (HR) 122001
+            Eazyhome office#13, first floor, Huda Market sector-46 
+            Gurugram (HR) 122018
         </p>
       </div>
     </div>
